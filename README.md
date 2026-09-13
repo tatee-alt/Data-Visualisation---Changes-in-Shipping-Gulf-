@@ -1,6 +1,3 @@
-[README.md](https://github.com/user-attachments/files/32173840/README.md)
-# The ships that stayed: hull size, dark shipping and the Strait of Hormuz
-
 DSM050 Data Visualisation, final coursework. A self-contained study of shipping
 behaviour around the Strait of Hormuz between September 2025 and June 2026, using
 Sentinel-1 SAR vessel detections from Global Fishing Watch.
